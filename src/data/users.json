@@ -1,0 +1,100 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "email": "johndoe@mail.com",
+    "address": "123 Main St, Anytown, USA",
+    "phone": "555-1234"
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "email": "johnsmith@mail.com",
+    "address": "456 Elm St, Othertown, USA",
+    "phone": "555-5678"
+  },
+  {
+    "id": 3,
+    "name": "Bob Johnson",
+    "email": "bobjohnson@mail.com",
+    "address": "789 Oak St, Sometown, USA",
+    "phone": "555-9012"
+  },
+  {
+    "id": 4,
+    "name": "Hamza",
+    "email": "hamza@gmail.com",
+    "address": "B-17",
+    "phone": "03156088777"
+  },
+  {
+    "id": 5,
+    "name": "zxc",
+    "email": "zxc@gmail.com",
+    "address": "zxc",
+    "phone": "1293112398132"
+  },
+  {
+    "id": 6,
+    "name": "zxc1",
+    "email": "zxc1@gmail.com",
+    "address": "1zxc",
+    "phone": "1293112398132"
+  },
+  {
+    "id": 7,
+    "name": "sada",
+    "email": "asd@gmail.com",
+    "address": "adwqe",
+    "phone": "211231"
+  },
+  {
+    "id": 8,
+    "name": "aaa",
+    "email": "aaa@gmail.com",
+    "address": "qqqq",
+    "phone": "123123"
+  },
+  {
+    "id": 9,
+    "name": "Maya Chen",
+    "email": "maya.chen.20260505@example.com",
+    "address": "742 Pine Harbor Ave, Portland, OR 97205",
+    "phone": "555-0147"
+  },
+  {
+    "id": 10,
+    "name": "Liam Parker",
+    "email": "liam.parker@example.com",
+    "address": "2020 Sunset Blvd., Los Angeles, CA 90026",
+    "phone": "4245556789"
+  },
+  {
+    "id": 11,
+    "name": "Noah Carter",
+    "email": "noah.carter@example.com",
+    "address": "1478 Willow Lane, Portland, OR 97214",
+    "phone": "9715554321"
+  },
+  {
+    "id": 12,
+    "name": "Isabella Rodriguez",
+    "email": "isabella.rodriguez@example.com",
+    "address": "654 Oakwood Drive, Atlanta, GA 30308",
+    "phone": "4045558765"
+  },
+  {
+    "id": 13,
+    "name": "mmmmm",
+    "email": "mmm@gmail.com",
+    "address": "mmmm",
+    "phone": "123123123"
+  },
+  {
+    "id": 14,
+    "name": "Avery Stone",
+    "email": "avery.stone@example.com",
+    "address": "742 Evergreen Terrace",
+    "phone": "555-0198"
+  }
+]
